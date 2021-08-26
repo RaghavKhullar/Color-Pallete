@@ -126,7 +126,7 @@ if ($_SERVER['REQUEST_METHOD'] == "POST") {
         <h1>Colourful World</h1>
         <h3>SignUp</h3>
 
-        <form method="POST" action="login.php" class="form">
+        <form method="POST" action="signup.php" class="form">
 
 
 
